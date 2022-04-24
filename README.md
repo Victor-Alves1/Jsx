@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+## Site photos
+### Computer Printscreen
+![image](https://user-images.githubusercontent.com/101835324/164984948-92f1d30e-dc14-45d1-83db-3c8e3ebb590f.png)
+### IPad Printscreen (768px X 1024px)
+![image](https://user-images.githubusercontent.com/101835324/164984975-cffa9f3a-770e-499d-a2e9-8ea0cb3085e6.png)
+### IPhone SE Printscreen (375px X 667px)
+![image](https://user-images.githubusercontent.com/101835324/164985014-1f0f78d5-f42a-4faf-af22-24a8da9abb3c.png)
+
+this challenge was proposed by https://www.youtube.com/watch?v=ErjWNvP6mko&t=4352s
+
+# To start this app
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
