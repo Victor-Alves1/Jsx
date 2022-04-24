@@ -4,7 +4,7 @@
 ### IPad Printscreen (768px X 1024px)
 ![image](https://user-images.githubusercontent.com/101835324/164984975-cffa9f3a-770e-499d-a2e9-8ea0cb3085e6.png)
 ### IPhone SE Printscreen (375px X 667px)
-![image](https://user-images.githubusercontent.com/101835324/164985014-1f0f78d5-f42a-4faf-af22-24a8da9abb3c.png)
+![image](https://user-images.githubusercontent.com/101835324/164985275-05043568-5bf6-491e-8acc-2ffa0f6c17d0.png)
 
 this challenge was proposed by https://www.youtube.com/watch?v=ErjWNvP6mko&t=4352s
 
